@@ -1,0 +1,8 @@
+com\crudsa\entity\Libro.class
+com\crudsa\dao\LibroDAOImpl.class
+com\crudsa\dao\LibroDAO.class
+com\crudsa\CORSFilter.class
+com\crudsa\entity\ApiResponse.class
+com\crudsa\vo\LibroVO.class
+com\crudsa\ws\LibroServiceImpl.class
+com\crudsa\ws\LibroService.class
